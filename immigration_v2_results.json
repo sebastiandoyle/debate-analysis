@@ -1,0 +1,217 @@
+{
+  "stats": [
+    {
+      "year": "1960",
+      "word_count": 11165,
+      "immigration_sentences": 0,
+      "immigration_words": 0,
+      "immigration_pct": 0.0,
+      "threat_framing": 0,
+      "compassion_framing": 0,
+      "enforcement_framing": 0,
+      "reform_framing": 0,
+      "quote_count": 0
+    },
+    {
+      "year": "1984",
+      "word_count": 14602,
+      "immigration_sentences": 0,
+      "immigration_words": 0,
+      "immigration_pct": 0.0,
+      "threat_framing": 0,
+      "compassion_framing": 0,
+      "enforcement_framing": 0,
+      "reform_framing": 0,
+      "quote_count": 0
+    },
+    {
+      "year": "1992",
+      "word_count": 15755,
+      "immigration_sentences": 1,
+      "immigration_words": 45,
+      "immigration_pct": 0.29,
+      "threat_framing": 0,
+      "compassion_framing": 0,
+      "enforcement_framing": 0,
+      "reform_framing": 0,
+      "quote_count": 1
+    },
+    {
+      "year": "2000",
+      "word_count": 16536,
+      "immigration_sentences": 0,
+      "immigration_words": 0,
+      "immigration_pct": 0.0,
+      "threat_framing": 0,
+      "compassion_framing": 0,
+      "enforcement_framing": 0,
+      "reform_framing": 0,
+      "quote_count": 0
+    },
+    {
+      "year": "2008",
+      "word_count": 33305,
+      "immigration_sentences": 0,
+      "immigration_words": 0,
+      "immigration_pct": 0.0,
+      "threat_framing": 0,
+      "compassion_framing": 0,
+      "enforcement_framing": 0,
+      "reform_framing": 0,
+      "quote_count": 0
+    },
+    {
+      "year": "2016",
+      "word_count": 17428,
+      "immigration_sentences": 5,
+      "immigration_words": 68,
+      "immigration_pct": 0.39,
+      "threat_framing": 1,
+      "compassion_framing": 0,
+      "enforcement_framing": 4,
+      "reform_framing": 0,
+      "quote_count": 4
+    },
+    {
+      "year": "2020",
+      "word_count": 18879,
+      "immigration_sentences": 13,
+      "immigration_words": 225,
+      "immigration_pct": 1.19,
+      "threat_framing": 0,
+      "compassion_framing": 4,
+      "enforcement_framing": 5,
+      "reform_framing": 5,
+      "quote_count": 12
+    }
+  ],
+  "quotes": [
+    {
+      "year": "1992",
+      "speaker": "CANDIDATE",
+      "quote": "And I found out that when I really got down to putting out do\u2019s and don\u2019ts, and lots of these included take torture for this and that, and this and that, and never take any amnesty, for reasons they all understood and went along with.",
+      "framing": []
+    },
+    {
+      "year": "2016",
+      "speaker": "CANDIDATE",
+      "quote": "And in many cases, they\u2019re illegally here, illegal immigrants.",
+      "framing": [
+        "threat"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "CANDIDATE",
+      "quote": "They\u2019ve never endorsed anybody before on immigration.",
+      "framing": []
+    },
+    {
+      "year": "2016",
+      "speaker": "CANDIDATE",
+      "quote": "I was just recently endorsed\u201416,500 Border Patrol agents.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "CANDIDATE",
+      "quote": "And perhaps they passed the wrong button, they pressed the wrong button, or perhaps worse than that, it was corruption, but these people that we were going to deport for good reason ended up becoming citizens.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: We are going to move on to immigration \u2014 TRUMP: One thing very quickly.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "We\u2019re going to talk about immigration, now, gentlemen, and we\u2019re going to talk about families within this context.",
+      "framing": [
+        "compassion"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Let me ask about your immigration policy, Mr.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "The Obama administration did fail to deliver immigration reform, which had been a key promise during the administration.",
+      "framing": [
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "It also presided over record deportations as well as family detentions at the border before changing course.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "So why should voters trust you with an immigration overhaul now?",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "And the fact is, I\u2019ve made it very clear, within 100 days, I\u2019m going to send to the United States Congress a pathway to citizenship for over 11 million undocumented people.",
+      "framing": [
+        "compassion",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "And all those so called Dreamers, those DACA kids, they\u2019re going to be immediately certified again, to be able to stay in this country, and put on a path to citizenship.",
+      "framing": [
+        "compassion",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "This is the first President in the history of the United States of America that anybody seeking asylum has to do it in another country.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "That I seek asylum based on the following premise, why I deserve it under American law.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "CANDIDATE",
+      "quote": "It just shows that he has no understanding of immigration or the laws.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "TRUMP",
+      "quote": "TRUMP: We have to send ICE out and Border Patrol out to find them.",
+      "framing": [
+        "enforcement"
+      ]
+    }
+  ]
+}

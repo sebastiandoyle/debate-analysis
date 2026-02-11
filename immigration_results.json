@@ -1,0 +1,852 @@
+{
+  "stats": [
+    {
+      "year": "1960",
+      "word_count": 11165,
+      "immigration_mentions": 0,
+      "immigration_per_1000": 0.0,
+      "threat_rhetoric": 4,
+      "compassion_rhetoric": 10,
+      "enforcement_focus": 5,
+      "reform_focus": 5,
+      "quote_count": 1
+    },
+    {
+      "year": "1984",
+      "word_count": 14602,
+      "immigration_mentions": 11,
+      "immigration_per_1000": 0.75,
+      "threat_rhetoric": 18,
+      "compassion_rhetoric": 26,
+      "enforcement_focus": 18,
+      "reform_focus": 4,
+      "quote_count": 9
+    },
+    {
+      "year": "1992",
+      "word_count": 15755,
+      "immigration_mentions": 7,
+      "immigration_per_1000": 0.44,
+      "threat_rhetoric": 37,
+      "compassion_rhetoric": 38,
+      "enforcement_focus": 14,
+      "reform_focus": 33,
+      "quote_count": 5
+    },
+    {
+      "year": "2000",
+      "word_count": 16536,
+      "immigration_mentions": 8,
+      "immigration_per_1000": 0.48,
+      "threat_rhetoric": 17,
+      "compassion_rhetoric": 28,
+      "enforcement_focus": 45,
+      "reform_focus": 18,
+      "quote_count": 7
+    },
+    {
+      "year": "2008",
+      "word_count": 33305,
+      "immigration_mentions": 28,
+      "immigration_per_1000": 0.84,
+      "threat_rhetoric": 120,
+      "compassion_rhetoric": 28,
+      "enforcement_focus": 56,
+      "reform_focus": 46,
+      "quote_count": 22
+    },
+    {
+      "year": "2016",
+      "word_count": 17428,
+      "immigration_mentions": 26,
+      "immigration_per_1000": 1.49,
+      "threat_rhetoric": 28,
+      "compassion_rhetoric": 11,
+      "enforcement_focus": 30,
+      "reform_focus": 12,
+      "quote_count": 16
+    },
+    {
+      "year": "2020",
+      "word_count": 18879,
+      "immigration_mentions": 49,
+      "immigration_per_1000": 2.6,
+      "threat_rhetoric": 50,
+      "compassion_rhetoric": 57,
+      "enforcement_focus": 47,
+      "reform_focus": 17,
+      "quote_count": 33
+    }
+  ],
+  "quotes": [
+    {
+      "year": "1960",
+      "speaker": "UNKNOWN",
+      "quote": "What sort of prolonged period do you envisage before there can be a summit conference",
+      "terms": [
+        "visa"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "But when I see the CIA doing things like they\u2019re doing down in Central America \u2013 supporting a covert war \u2013 no, I don\u2019t support that kind of activity",
+      "terms": [
+        "central america"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "Under what circumstances would you advocate the use of military force, American combat forces, in Central America",
+      "terms": [
+        "central america"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "Mondale referred to the quarantine of Central America, a country in Central America, what he is referring to is a last resort after all other means of attempting to settle the situation down in that region of the world had been exhausted",
+      "terms": [
+        "central america"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "They\u2019re moving in militarily instead of promoting the Contadora process, which, as you know, is the process that is in place with the support of Mexico and Colombia and Panama and Venezuela",
+      "terms": [
+        "mexico"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "Does your answer mean that you would be willing to forgo the use of military force even if it meant the establishment of a Soviet-back dictatorship so close to our own borders",
+      "terms": [
+        "border",
+        "borders"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "Can you tell us under what circumstances a reelected Reagan administration would consider the use of force in Central American or the Caribbean",
+      "terms": [
+        "central america"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "FERRARO",
+      "quote": "FERRARO: I spent time in Central America in January and had an opportunity to speak to the contras after the incident in Nicaragua and in El Salvador",
+      "terms": [
+        "central america"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "When Walter Mondale was attorney general of Minnesota, he led the fight for a man who could not afford to get justice because he couldn\u2019t afford a lawyer; when he was in the Senate he fought for child nutrition programs, he wrote the Fair Housing Act, he even investigated the concerns and the abuses of migrant workers",
+      "terms": [
+        "migrant"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "UNKNOWN",
+      "quote": "Children don\u2019t vote and migrant workers exactly a powerful lobby in this country, but he did it because it was right",
+      "terms": [
+        "migrant"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "UNKNOWN",
+      "quote": "George Bush taking credit for the Berlin Wall coming down is like the rooster taking credit for the sunrise",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "STOCKDALE",
+      "quote": ") STOCKDALE: I don\u2019t \u2014 I, too, abhor abortions, but I don\u2019t think they should be made illegal, and I don\u2019t \u2014 and I don\u2019t think it\u2019s a political issue",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "UNKNOWN",
+      "quote": "That is because he and George Bush have turned over their party to Pat Buchanan and Phyllis Schlafly, who have ordered them to endorse a platform which makes all abortions illegal under any circumstances, regardless of what has led to that decision by a woman",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "UNKNOWN",
+      "quote": "And I found out that when I really got down to putting out do\u2019s and don\u2019ts, and lots of these included take torture for this and that, and this and that, and never take any amnesty, for reasons they all understood and went along with",
+      "terms": [
+        "amnesty"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "QUAYLE",
+      "quote": "QUAYLE: \u2014 when we talk about families here, because I was meeting with some former gang members in Phoenix and Los Angeles and Albuquerque, New Mexico",
+      "terms": [
+        "mexico"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "UNKNOWN",
+      "quote": "I thought the President did the right thing with Mexico and was very strongly supportive of the administration in Mexico",
+      "terms": [
+        "mexico"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "UNKNOWN",
+      "quote": "Like you said, Arab-Americans, but also Hispanics, Asians, as well as Blacks in this country",
+      "terms": [
+        "hispanic"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "UNKNOWN",
+      "quote": "There is pending now in the Congress a national hate crimes law because of James Byrd, because of Matthew Shepard, who was crucified on a split rail fence by bigots, and because of others",
+      "terms": [
+        "fence"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "UNKNOWN",
+      "quote": "When you say loud and clear to somebody if you\u2019re going to carry a gun illegally, we\u2019re going to arrest you",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "UNKNOWN",
+      "quote": "If you\u2019re going to sell a gun illegally, you need to be arrested",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "UNKNOWN",
+      "quote": "Programs like Project Exile where the federal government intensifies arresting people who illegally use guns",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "UNKNOWN",
+      "quote": "And I was able to do so with a lot of Democrat votes, nearly 50% of the Hispanic vote, about 27% of the African-American vote, because people know I\u2019m a conservative person and a compassionate person",
+      "terms": [
+        "hispanic"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And although we\u2019ve heard a lot about Wall Street, those of you on Main Street I think have been struggling for a while, and you recognize that this could have an impact on all sectors of the economy",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And we\u2019re not talking about failure of institutions on Wall Street",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "But somehow in Washington today \u2014 and I\u2019m afraid on Wall Street \u2014 greed is rewarded, excess is rewarded, and corruption \u2014 or certainly failure to carry out our responsibility is rewarded",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "I mean, we\u2019ve had years in which the reigning economic ideology has been what\u2019s good for Wall Street, but not what\u2019s good for Main Street",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "So to stand here and after eight years and say that you\u2019re going to lead on controlling spending and, you know, balancing our tax cuts so that they help middle class families when over the last eight years that hasn\u2019t happened I think just is, you know, kind of hard to swallow",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And we are seeing a major offensive taking place \u2014 Al Qaida and Taliban crossing the border and attacking our troops in a brazen fashion",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "Number three, we\u2019ve got to deal with Pakistan, because Al Qaida and the Taliban have safe havens in Pakistan, across the border in the northwest regions, and although, you know, under George Bush, with the support of Senator McCain, we\u2019ve been giving them $10 billion over the last seven years, they have not done what needs to be done to get rid of those safe havens",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And this area on the border has not been governed since the days of Alexander the Great",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And the problem, John, with the strategy that\u2019s been pursued was that, for 10 years, we coddled Musharraf, we alienated the Pakistani population, because we were anti-democratic",
+      "terms": [
+        "alien"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "I immediately said that this was illegal and objectionable",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "But we still have a long way to go before we can declare America safe, and that means doing a better job along our borders, as well",
+      "terms": [
+        "border",
+        "borders"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And although we\u2019ve heard a lot about Wall Street, those of you on Main Street I think have been struggling for a while, and you recognize that this could have an impact on all sectors of the economy",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And we\u2019re not talking about failure of institutions on Wall Street",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "But somehow in Washington today \u2014 and I\u2019m afraid on Wall Street \u2014 greed is rewarded, excess is rewarded, and corruption \u2014 or certainly failure to carry out our responsibility is rewarded",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "I mean, we\u2019ve had years in which the reigning economic ideology has been what\u2019s good for Wall Street, but not what\u2019s good for Main Street",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "So to stand here and after eight years and say that you\u2019re going to lead on controlling spending and, you know, balancing our tax cuts so that they help middle class families when over the last eight years that hasn\u2019t happened I think just is, you know, kind of hard to swallow",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And we are seeing a major offensive taking place \u2014 Al Qaida and Taliban crossing the border and attacking our troops in a brazen fashion",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "Number three, we\u2019ve got to deal with Pakistan, because Al Qaida and the Taliban have safe havens in Pakistan, across the border in the northwest regions, and although, you know, under George Bush, with the support of Senator McCain, we\u2019ve been giving them $10 billion over the last seven years, they have not done what needs to be done to get rid of those safe havens",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And this area on the border has not been governed since the days of Alexander the Great",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "And the problem, John, with the strategy that\u2019s been pursued was that, for 10 years, we coddled Musharraf, we alienated the Pakistani population, because we were anti-democratic",
+      "terms": [
+        "alien"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "I immediately said that this was illegal and objectionable",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "UNKNOWN",
+      "quote": "But we still have a long way to go before we can declare America safe, and that means doing a better job along our borders, as well",
+      "terms": [
+        "border",
+        "borders"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "When you look at what\u2019s happening in Mexico, a friend of mine who builds plants said it\u2019s the eighth wonder of the world",
+      "terms": [
+        "mexico"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "And what you do is you say, fine, you want to go to Mexico or some other country, good luck",
+      "terms": [
+        "mexico"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "That was in large part because of tax policies that slashed taxes on the wealthy, failed to invest in the middle class, took their eyes off of Wall Street, and created a perfect storm",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "Third, we don\u2019t know all of his business dealings, but we have been told through investigative reporting that he owes about $650 million to Wall Street and foreign banks",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "When you have your staff taking the Fifth Amendment, taking the Fifth so they\u2019re not prosecuted, when you have the man that set up the illegal server taking the Fifth, I think it\u2019s disgraceful",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "We have a situation where we have our inner cities, African- Americans, Hispanics are living in hell because it\u2019s so dangerous",
+      "terms": [
+        "hispanic"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "And in many cases, they\u2019re illegally here, illegal immigrants",
+      "terms": [
+        "immigra",
+        "immigrant",
+        "immigrants",
+        "illegal",
+        "migrant",
+        "migrants"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "Stop-and-frisk was ruled unconstitutional in New York, because it largely singled out black and Hispanic young men",
+      "terms": [
+        "hispanic"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "And we need law and order in the inner cities, because the people that are most affected by what\u2019s happening are African-American and Hispanic people",
+      "terms": [
+        "hispanic"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "Too many young African-American and Latino men ended up in jail for nonviolent offenses",
+      "terms": [
+        "latino"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "HOLT",
+      "quote": "HOLT: That was\u2026 [ crosstalk ] TRUMP: Because I want to get on to defeating ISIS, because I want to get on to creating jobs, because I want to get on to having a strong border, because I want to get on to things that are very important to me and that are very important to the country",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "They\u2019ve never endorsed anybody before on immigration",
+      "terms": [
+        "immigra",
+        "immigration",
+        "migration"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "I was just recently endorsed\u201416,500 Border Patrol agents",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "They need to have close working cooperation with law enforcement in these communities, not be alienated and pushed away as some of Donald\u2019s rhetoric, unfortunately, has led to",
+      "terms": [
+        "alien"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "And about four months ago, I read on the front page of the Wall Street Journal that NATO is opening up a major terror division",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "UNKNOWN",
+      "quote": "And perhaps they passed the wrong button, they pressed the wrong button, or perhaps worse than that, it was corruption, but these people that we were going to deport for good reason ended up becoming citizens",
+      "terms": [
+        "deport"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "It wasn\u2019t about closing the border to Chinese coming to the United States",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "TRUMP",
+      "quote": "TRUMP: He thought I shouldn\u2019t have closed the border",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "But, guess what, in the meantime, we find out in the New York Times the other day that in fact, his folks went to Wall Street and said, \u2018this is a really dangerous thing,\u2019 and a memo out of that meeting \u2014 not from his administration, but from some of the brokers \u2014 said, \u2018sell short, because we gotta get moving",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "You\u2019re the one that takes all the money from Wall Street",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "As president and as somebody that knows most of those people, I could call the heads of Wall Street, the heads of every company in America, I would blow away every record",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "Because you\u2019re the one that takes the money from Wall Street, not me",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "Just in the last three, three years during this crisis, the billionaires in this country made, according to the Wall Street, $700 billion more dollars",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "It was also a way of getting a lot of money from our people\u2019s pockets to people that come into our country illegally",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: We are going to move on to immigration \u2014 TRUMP: One thing very quickly",
+      "terms": [
+        "immigra",
+        "immigration",
+        "migration"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "We\u2019re going to talk about immigration, now, gentlemen, and we\u2019re going to talk about families within this context",
+      "terms": [
+        "immigra",
+        "immigration",
+        "migration"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "President, your administration separated children from their parents at the border, at least 4000 kids",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "We\u2019re over 400 miles of brand new wall, you see the numbers, and we let people in, but they have to come in legally and they come in through \u2013 WELKER: But how will you reunite these kids with their families",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "They separated them at the border to make it a disincentive to come to begin with",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Let me ask about your immigration policy, Mr",
+      "terms": [
+        "immigra",
+        "immigration",
+        "migration"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "The Obama administration did fail to deliver immigration reform, which had been a key promise during the administration",
+      "terms": [
+        "immigra",
+        "immigration",
+        "migration"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "It also presided over record deportations as well as family detentions at the border before changing course",
+      "terms": [
+        "border",
+        "deport",
+        "deportation"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "So why should voters trust you with an immigration overhaul now",
+      "terms": [
+        "immigra",
+        "immigration",
+        "migration"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "And the fact is, I\u2019ve made it very clear, within 100 days, I\u2019m going to send to the United States Congress a pathway to citizenship for over 11 million undocumented people",
+      "terms": [
+        "undocumented",
+        "citizenship"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "And all those so called Dreamers, those DACA kids, they\u2019re going to be immediately certified again, to be able to stay in this country, and put on a path to citizenship",
+      "terms": [
+        "citizenship"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "I can imagine you\u2019re five years old, your parents are taking you across the Rio Grande River and it\u2019s and it\u2019s illegal",
+      "terms": [
+        "illegal"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "This is the first President in the history of the United States of America that anybody seeking asylum has to do it in another country",
+      "terms": [
+        "asylum"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "That I seek asylum based on the following premise, why I deserve it under American law",
+      "terms": [
+        "asylum"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "It just shows that he has no understanding of immigration or the laws",
+      "terms": [
+        "immigra",
+        "immigration",
+        "migration"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "TRUMP",
+      "quote": "TRUMP: We have to send ICE out and Border Patrol out to find them",
+      "terms": [
+        "border"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "Biggest beneficiary, the Black and Hispanic communities and then historically Black colleges and universities",
+      "terms": [
+        "hispanic"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "He started off his campaign coming down the escalator saying he\u2019s gonna get rid of those Mexican rapists",
+      "terms": [
+        "mexican"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "And what \u2014 right now, by the way, Wall Street firm has indicated that my plan \u2014 my plan will, in fact, create 18",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "This from Wall Street and I\u2019ll create $1 trillion more in economic growth than his proposal does, not on climate just on the economy",
+      "terms": [
+        "wall"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "If you look at the kind of numbers that we produce for Hispanic, or Black, or Asian, it\u2019s nine times greater, the percentage gain than it was under \u2014 in three years \u2014 than it was under eight years of the two of them, to put it nicely",
+      "terms": [
+        "hispanic"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "We got \u2014 say what you want of that relationship, we got Saudi Arabia, Mexico and Russia to cut back, way back",
+      "terms": [
+        "mexico"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "BIDEN",
+      "quote": "BIDEN: My response is that those people live on what they call \u2018fence lines\u2019",
+      "terms": [
+        "fence"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "And you impose restrictions on the pollutions, on the pollutants coming out of those fence line communities",
+      "terms": [
+        "fence"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "UNKNOWN",
+      "quote": "We had the best Black unemployment numbers in the history of our country, Hispanic, women, Asian, people with diplomas, with no diplomas, MIT graduates, number one in the class \u2014 everybody had the best numbers",
+      "terms": [
+        "hispanic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+[
+  {
+    "year": "1960",
+    "word_count": 11165,
+    "crisis_words": 46,
+    "hope_words": 109,
+    "crisis_ratio": 4.12,
+    "hope_ratio": 9.76,
+    "themes": {
+      "economy": 27,
+      "healthcare": 5,
+      "security": 56,
+      "education": 9,
+      "foreign": 36
+    },
+    "top_words": [
+      [
+        "that",
+        330
+      ],
+      [
+        "have",
+        118
+      ],
+      [
+        "this",
+        101
+      ],
+      [
+        "would",
+        88
+      ],
+      [
+        "president",
+        74
+      ],
+      [
+        "kennedy",
+        61
+      ],
+      [
+        "debate",
+        59
+      ],
+      [
+        "will",
+        54
+      ],
+      [
+        "senator",
+        53
+      ],
+      [
+        "which",
+        50
+      ],
+      [
+        "transcript",
+        49
+      ],
+      [
+        "there",
+        49
+      ],
+      [
+        "october",
+        46
+      ],
+      [
+        "with",
+        44
+      ],
+      [
+        "nixon",
+        42
+      ],
+      [
+        "been",
+        41
+      ],
+      [
+        "question",
+        39
+      ],
+      [
+        "should",
+        38
+      ],
+      [
+        "going",
+        36
+      ],
+      [
+        "vice",
+        35
+      ]
+    ]
+  },
+  {
+    "year": "1984",
+    "word_count": 14602,
+    "crisis_words": 26,
+    "hope_words": 110,
+    "crisis_ratio": 1.78,
+    "hope_ratio": 7.53,
+    "themes": {
+      "economy": 46,
+      "healthcare": 0,
+      "security": 66,
+      "education": 21,
+      "foreign": 56
+    },
+    "top_words": [
+      [
+        "that",
+        387
+      ],
+      [
+        "have",
+        138
+      ],
+      [
+        "with",
+        125
+      ],
+      [
+        "they",
+        113
+      ],
+      [
+        "president",
+        106
+      ],
+      [
+        "this",
+        98
+      ],
+      [
+        "there",
+        78
+      ],
+      [
+        "what",
+        69
+      ],
+      [
+        "think",
+        67
+      ],
+      [
+        "people",
+        66
+      ],
+      [
+        "debate",
+        65
+      ],
+      [
+        "ferraro",
+        64
+      ],
+      [
+        "bush",
+        56
+      ],
+      [
+        "your",
+        54
+      ],
+      [
+        "when",
+        53
+      ],
+      [
+        "about",
+        50
+      ],
+      [
+        "would",
+        50
+      ],
+      [
+        "administration",
+        50
+      ],
+      [
+        "transcript",
+        49
+      ],
+      [
+        "vice",
+        49
+      ]
+    ]
+  },
+  {
+    "year": "1992",
+    "word_count": 15755,
+    "crisis_words": 57,
+    "hope_words": 62,
+    "crisis_ratio": 3.62,
+    "hope_ratio": 3.94,
+    "themes": {
+      "economy": 107,
+      "healthcare": 70,
+      "security": 56,
+      "education": 45,
+      "foreign": 16
+    },
+    "top_words": [
+      [
+        "that",
+        317
+      ],
+      [
+        "have",
+        162
+      ],
+      [
+        "quayle",
+        146
+      ],
+      [
+        "gore",
+        144
+      ],
+      [
+        "this",
+        124
+      ],
+      [
+        "president",
+        106
+      ],
+      [
+        "about",
+        94
+      ],
+      [
+        "with",
+        94
+      ],
+      [
+        "bruno",
+        88
+      ],
+      [
+        "they",
+        83
+      ],
+      [
+        "debate",
+        75
+      ],
+      [
+        "clinton",
+        74
+      ],
+      [
+        "going",
+        72
+      ],
+      [
+        "what",
+        67
+      ],
+      [
+        "bill",
+        67
+      ],
+      [
+        "want",
+        59
+      ],
+      [
+        "there",
+        58
+      ],
+      [
+        "know",
+        55
+      ],
+      [
+        "applause",
+        54
+      ],
+      [
+        "bush",
+        52
+      ]
+    ]
+  },
+  {
+    "year": "2000",
+    "word_count": 16536,
+    "crisis_words": 30,
+    "hope_words": 122,
+    "crisis_ratio": 1.81,
+    "hope_ratio": 7.38,
+    "themes": {
+      "economy": 25,
+      "healthcare": 52,
+      "security": 81,
+      "education": 44,
+      "foreign": 38
+    },
+    "top_words": [
+      [
+        "that",
+        457
+      ],
+      [
+        "have",
+        163
+      ],
+      [
+        "think",
+        161
+      ],
+      [
+        "there",
+        111
+      ],
+      [
+        "moderator",
+        107
+      ],
+      [
+        "with",
+        93
+      ],
+      [
+        "about",
+        88
+      ],
+      [
+        "this",
+        85
+      ],
+      [
+        "people",
+        85
+      ],
+      [
+        "bush",
+        82
+      ],
+      [
+        "they",
+        82
+      ],
+      [
+        "what",
+        76
+      ],
+      [
+        "gore",
+        74
+      ],
+      [
+        "president",
+        73
+      ],
+      [
+        "would",
+        66
+      ],
+      [
+        "debate",
+        62
+      ],
+      [
+        "going",
+        59
+      ],
+      [
+        "world",
+        58
+      ],
+      [
+        "some",
+        56
+      ],
+      [
+        "transcript",
+        49
+      ]
+    ]
+  },
+  {
+    "year": "2008",
+    "word_count": 33305,
+    "crisis_words": 148,
+    "hope_words": 218,
+    "crisis_ratio": 4.44,
+    "hope_ratio": 6.55,
+    "themes": {
+      "economy": 92,
+      "healthcare": 38,
+      "security": 264,
+      "education": 16,
+      "foreign": 214
+    },
+    "top_words": [
+      [
+        "that",
+        974
+      ],
+      [
+        "have",
+        468
+      ],
+      [
+        "obama",
+        256
+      ],
+      [
+        "senator",
+        252
+      ],
+      [
+        "this",
+        247
+      ],
+      [
+        "mccain",
+        240
+      ],
+      [
+        "with",
+        238
+      ],
+      [
+        "going",
+        172
+      ],
+      [
+        "they",
+        168
+      ],
+      [
+        "what",
+        168
+      ],
+      [
+        "there",
+        146
+      ],
+      [
+        "lehrer",
+        132
+      ],
+      [
+        "know",
+        130
+      ],
+      [
+        "about",
+        124
+      ],
+      [
+        "make",
+        120
+      ],
+      [
+        "think",
+        118
+      ],
+      [
+        "said",
+        112
+      ],
+      [
+        "been",
+        110
+      ],
+      [
+        "because",
+        106
+      ],
+      [
+        "just",
+        106
+      ]
+    ]
+  },
+  {
+    "year": "2016",
+    "word_count": 17428,
+    "crisis_words": 63,
+    "hope_words": 104,
+    "crisis_ratio": 3.61,
+    "hope_ratio": 5.97,
+    "themes": {
+      "economy": 106,
+      "healthcare": 4,
+      "security": 60,
+      "education": 11,
+      "foreign": 76
+    },
+    "top_words": [
+      [
+        "that",
+        389
+      ],
+      [
+        "have",
+        258
+      ],
+      [
+        "they",
+        164
+      ],
+      [
+        "trump",
+        161
+      ],
+      [
+        "clinton",
+        137
+      ],
+      [
+        "this",
+        109
+      ],
+      [
+        "holt",
+        100
+      ],
+      [
+        "what",
+        99
+      ],
+      [
+        "with",
+        97
+      ],
+      [
+        "going",
+        90
+      ],
+      [
+        "very",
+        90
+      ],
+      [
+        "because",
+        86
+      ],
+      [
+        "about",
+        80
+      ],
+      [
+        "think",
+        79
+      ],
+      [
+        "people",
+        73
+      ],
+      [
+        "country",
+        72
+      ],
+      [
+        "just",
+        68
+      ],
+      [
+        "will",
+        66
+      ],
+      [
+        "your",
+        66
+      ],
+      [
+        "would",
+        66
+      ]
+    ]
+  },
+  {
+    "year": "2020",
+    "word_count": 18879,
+    "crisis_words": 51,
+    "hope_words": 74,
+    "crisis_ratio": 2.7,
+    "hope_ratio": 3.92,
+    "themes": {
+      "economy": 43,
+      "healthcare": 63,
+      "security": 34,
+      "education": 30,
+      "foreign": 97
+    },
+    "top_words": [
+      [
+        "that",
+        313
+      ],
+      [
+        "have",
+        245
+      ],
+      [
+        "they",
+        224
+      ],
+      [
+        "trump",
+        169
+      ],
+      [
+        "president",
+        156
+      ],
+      [
+        "what",
+        151
+      ],
+      [
+        "welker",
+        148
+      ],
+      [
+        "this",
+        146
+      ],
+      [
+        "going",
+        140
+      ],
+      [
+        "biden",
+        128
+      ],
+      [
+        "about",
+        119
+      ],
+      [
+        "with",
+        117
+      ],
+      [
+        "people",
+        101
+      ],
+      [
+        "said",
+        93
+      ],
+      [
+        "your",
+        92
+      ],
+      [
+        "because",
+        79
+      ],
+      [
+        "know",
+        70
+      ],
+      [
+        "them",
+        69
+      ],
+      [
+        "there",
+        68
+      ],
+      [
+        "very",
+        67
+      ]
+    ]
+  }
+]

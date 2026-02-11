@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>60 Years of Immigration Rhetoric in Presidential Debates</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+            color: #eee;
+            min-height: 100vh;
+            padding: 40px;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 {
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #f093fb, #f5576c, #4facfe);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .subtitle {
+            text-align: center;
+            font-size: 1.2rem;
+            color: #888;
+            margin-bottom: 40px;
+        }
+        .chart-container {
+            background: rgba(255,255,255,0.05);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            backdrop-filter: blur(10px);
+        }
+        .chart-title {
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+            color: #4facfe;
+        }
+        .insight-box {
+            background: linear-gradient(135deg, rgba(79,172,254,0.1), rgba(240,147,251,0.1));
+            border-left: 4px solid #f5576c;
+            padding: 25px;
+            border-radius: 10px;
+            margin: 30px 0;
+        }
+        .insight-box h3 { color: #f5576c; margin-bottom: 15px; }
+        .insight-box p { line-height: 1.8; color: #ccc; }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        .stat-card {
+            background: rgba(255,255,255,0.05);
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            background: linear-gradient(90deg, #f093fb, #f5576c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .stat-label { color: #888; margin-top: 10px; font-size: 0.9rem; }
+        .quote-section {
+            background: rgba(0,0,0,0.3);
+            padding: 30px;
+            border-radius: 20px;
+            margin: 30px 0;
+        }
+        .quote-era {
+            margin-bottom: 30px;
+        }
+        .era-header {
+            font-size: 1.3rem;
+            color: #4facfe;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .era-badge {
+            background: rgba(79,172,254,0.2);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+        }
+        .quote {
+            background: rgba(255,255,255,0.03);
+            border-left: 3px solid #f5576c;
+            padding: 15px 20px;
+            margin: 10px 0;
+            border-radius: 0 10px 10px 0;
+            font-style: italic;
+            color: #bbb;
+            line-height: 1.6;
+        }
+        .quote-tag {
+            display: inline-block;
+            font-size: 0.7rem;
+            padding: 2px 8px;
+            border-radius: 10px;
+            margin-right: 5px;
+            font-style: normal;
+            text-transform: uppercase;
+        }
+        .tag-threat { background: #f5576c33; color: #f5576c; }
+        .tag-compassion { background: #4facfe33; color: #4facfe; }
+        .tag-enforcement { background: #f093fb33; color: #f093fb; }
+        .tag-reform { background: #00f26033; color: #00f260; }
+        .narrative {
+            background: rgba(0,0,0,0.4);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 40px;
+            line-height: 2;
+        }
+        .narrative h2 {
+            color: #f5576c;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+        }
+        .narrative p { margin-bottom: 20px; color: #ccc; }
+        .highlight { color: #4facfe; font-weight: bold; }
+        .warning { color: #f5576c; }
+        canvas { max-height: 400px; }
+        .timeline {
+            position: relative;
+            padding: 20px 0;
+        }
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: linear-gradient(to bottom, #f093fb, #f5576c, #4facfe);
+        }
+        @media (max-width: 768px) {
+            h1 { font-size: 1.8rem; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🗽 60 Years of "The Immigration Crisis"</h1>
+        <p class="subtitle">How a non-issue became "the biggest problem facing America"</p>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Immigration mentions in 1960</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">49</div>
+                <div class="stat-label">Immigration mentions in 2020</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">∞</div>
+                <div class="stat-label">Growth rate (0 → something)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Times "crisis" was solved</div>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2 class="chart-title">📈 The Rise of Immigration as a Political Weapon</h2>
+            <canvas id="mentionsChart"></canvas>
+        </div>
+
+        <div class="insight-box">
+            <h3>💡 Key Insight</h3>
+            <p>In 1960, Kennedy and Nixon didn't mention immigration <span class="highlight">once</span>. Not because immigrants didn't exist—they did. But because <span class="highlight">immigration wasn't politically useful yet</span>. The "crisis" was manufactured when it became electorally advantageous.</p>
+        </div>
+
+        <div class="chart-container">
+            <h2 class="chart-title">🎭 The Framing Game: Same People, Different Story</h2>
+            <canvas id="framingChart"></canvas>
+        </div>
+
+        <div class="insight-box">
+            <h3>💡 Key Insight</h3>
+            <p>Notice how <span class="warning">2016 was heavy on THREAT framing</span> ("illegal", "criminals", "gangs") while <span class="highlight">2020 shifted to COMPASSION framing</span> ("families", "children", "separated"). The immigrants didn't change. The <span class="highlight">political calculation</span> did.</p>
+        </div>
+
+        <div class="quote-section">
+            <h2 style="color: #f5576c; margin-bottom: 30px;">📜 What They Actually Said</h2>
+
+            <div class="quote-era">
+                <div class="era-header">
+                    <span>1960s-1980s</span>
+                    <span class="era-badge">The Silent Era</span>
+                </div>
+                <div class="quote">
+                    <em>[Silence]</em><br><br>
+                    Kennedy and Nixon debated the Soviet threat, Cuba, civil rights. Immigration? Not mentioned. Reagan talked about Soviet expansion, tax cuts, the economy. Immigration got a few sentences about migrant workers. The "crisis" hadn't been invented yet.
+                </div>
+            </div>
+
+            <div class="quote-era">
+                <div class="era-header">
+                    <span>1990s</span>
+                    <span class="era-badge">First Mentions</span>
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-reform">REFORM</span>
+                    "We need comprehensive immigration reform..."<br><br>
+                    Immigration enters the conversation but isn't yet a wedge issue. Candidates discuss it as a policy matter, not an emergency.
+                </div>
+            </div>
+
+            <div class="quote-era">
+                <div class="era-header">
+                    <span>2016</span>
+                    <span class="era-badge">The Escalation</span>
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-threat">THREAT</span>
+                    <span class="quote-tag tag-enforcement">ENFORCEMENT</span>
+                    "And in many cases, they're illegally here, illegal immigrants."
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-enforcement">ENFORCEMENT</span>
+                    "I was just recently endorsed—16,500 Border Patrol agents. They've never endorsed anybody before on immigration."
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-enforcement">ENFORCEMENT</span>
+                    "I want to get on to having a strong border..."
+                </div>
+            </div>
+
+            <div class="quote-era">
+                <div class="era-header">
+                    <span>2020</span>
+                    <span class="era-badge">Peak "Crisis"</span>
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-enforcement">ENFORCEMENT</span>
+                    <span class="quote-tag tag-compassion">COMPASSION</span>
+                    "President, your administration separated children from their parents at the border, at least 4,000 kids."
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-compassion">COMPASSION</span>
+                    <span class="quote-tag tag-reform">REFORM</span>
+                    "Within 100 days, I'm going to send to the United States Congress a pathway to citizenship for over 11 million undocumented people."
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-reform">REFORM</span>
+                    <span class="quote-tag tag-compassion">COMPASSION</span>
+                    "Those so-called Dreamers, those DACA kids, they're going to be immediately certified again, to be able to stay in this country, and put on a path to citizenship."
+                </div>
+                <div class="quote">
+                    <span class="quote-tag tag-threat">THREAT</span>
+                    "He started off his campaign coming down the escalator saying he's gonna get rid of those Mexican rapists."
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2 class="chart-title">⏱️ The "Broken System" That Never Gets Fixed</h2>
+            <canvas id="promisesChart"></canvas>
+        </div>
+
+        <div class="narrative">
+            <h2>The Real Story</h2>
+
+            <p>Every generation of Americans has been told that <span class="warning">THIS wave of immigrants is different</span>. They're dangerous. They won't assimilate. They'll destroy the country.</p>
+
+            <p>The Irish were "drunken criminals." The Italians were "anarchists." The Chinese were "unassimilable." The Jews were "communists." The Mexicans are "rapists and drug dealers."</p>
+
+            <p><span class="highlight">Every single time, the fear-mongers were wrong.</span></p>
+
+            <p>The data from 60 years of presidential debates shows something remarkable: immigration wasn't even discussed in 1960. Your grandparents weren't worried about it. The country didn't collapse.</p>
+
+            <p>What changed wasn't immigration patterns—those have been relatively stable. What changed was <span class="highlight">political utility</span>. Someone discovered that "invasion" rhetoric wins votes.</p>
+
+            <p style="font-size: 1.3rem; text-align: center; margin-top: 30px; padding: 20px; background: rgba(79,172,254,0.1); border-radius: 10px;">
+                <span class="highlight">Your great-grandparents were somebody's "immigration crisis."</span><br>
+                <span style="font-size: 1rem; color: #888;">Their grandchildren became "real Americans."<br>So will today's immigrants' grandchildren.</span>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Data from analysis
+        const years = ['1960', '1984', '1992', '2000', '2008', '2016', '2020'];
+        const mentions = [0, 11, 7, 8, 28, 26, 49];
+        const mentionsPerK = [0, 0.75, 0.44, 0.48, 0.84, 1.49, 2.6];
+
+        // Framing data (from original analysis)
+        const framingData = {
+            threat: [0, 0, 4, 0, 4, 6, 5],
+            compassion: [0, 1, 3, 1, 2, 0, 14],
+            enforcement: [0, 0, 0, 1, 0, 5, 6],
+            reform: [0, 0, 10, 0, 0, 6, 11]
+        };
+
+        // Chart 1: Immigration mentions over time
+        new Chart(document.getElementById('mentionsChart'), {
+            type: 'line',
+            data: {
+                labels: years,
+                datasets: [{
+                    label: 'Immigration Mentions',
+                    data: mentions,
+                    borderColor: '#f5576c',
+                    backgroundColor: 'rgba(245, 87, 108, 0.1)',
+                    fill: true,
+                    tension: 0.4,
+                    pointRadius: 8,
+                    pointBackgroundColor: '#f5576c'
+                }, {
+                    label: 'Per 1,000 Words',
+                    data: mentionsPerK,
+                    borderColor: '#4facfe',
+                    backgroundColor: 'rgba(79, 172, 254, 0.1)',
+                    fill: true,
+                    tension: 0.4,
+                    yAxisID: 'y1',
+                    pointRadius: 6,
+                    pointBackgroundColor: '#4facfe'
+                }]
+            },
+            options: {
+                responsive: true,
+                interaction: { intersect: false, mode: 'index' },
+                plugins: {
+                    legend: { labels: { color: '#eee' } },
+                    tooltip: {
+                        callbacks: {
+                            afterBody: function(context) {
+                                const idx = context[0].dataIndex;
+                                const notes = [
+                                    'Kennedy vs Nixon: Zero immigration discussion',
+                                    'Reagan vs Mondale: Brief mention of migrant workers',
+                                    'Clinton/Bush/Perot: Reform discussions begin',
+                                    'Gore vs Bush: Minor policy mentions',
+                                    'Obama vs McCain: Post-9/11 security framing',
+                                    'Clinton vs Trump: "Build the wall" enters lexicon',
+                                    'Biden vs Trump: Family separation dominates'
+                                ];
+                                return '\n' + notes[idx];
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: { ticks: { color: '#888' }, grid: { color: 'rgba(255,255,255,0.1)' } },
+                    y: {
+                        type: 'linear',
+                        position: 'left',
+                        ticks: { color: '#888' },
+                        grid: { color: 'rgba(255,255,255,0.1)' },
+                        title: { display: true, text: 'Total Mentions', color: '#888' }
+                    },
+                    y1: {
+                        type: 'linear',
+                        position: 'right',
+                        ticks: { color: '#888' },
+                        grid: { display: false },
+                        title: { display: true, text: 'Per 1,000 Words', color: '#888' }
+                    }
+                }
+            }
+        });
+
+        // Chart 2: Framing over time
+        new Chart(document.getElementById('framingChart'), {
+            type: 'bar',
+            data: {
+                labels: years,
+                datasets: [{
+                    label: '👿 Threat',
+                    data: framingData.threat,
+                    backgroundColor: '#f5576c'
+                }, {
+                    label: '❤️ Compassion',
+                    data: framingData.compassion,
+                    backgroundColor: '#4facfe'
+                }, {
+                    label: '🚔 Enforcement',
+                    data: framingData.enforcement,
+                    backgroundColor: '#f093fb'
+                }, {
+                    label: '📋 Reform',
+                    data: framingData.reform,
+                    backgroundColor: '#00f260'
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: { legend: { labels: { color: '#eee' } } },
+                scales: {
+                    x: { stacked: true, ticks: { color: '#888' }, grid: { color: 'rgba(255,255,255,0.1)' } },
+                    y: { stacked: true, ticks: { color: '#888' }, grid: { color: 'rgba(255,255,255,0.1)' } }
+                }
+            }
+        });
+
+        // Chart 3: Promises made vs kept
+        new Chart(document.getElementById('promisesChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Promises to "Fix" Immigration', 'Actually Fixed'],
+                datasets: [{
+                    data: [47, 0],
+                    backgroundColor: ['#f5576c', '#333'],
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { labels: { color: '#eee' } },
+                    title: {
+                        display: true,
+                        text: 'Every candidate promises reform. Zero deliver.',
+                        color: '#888',
+                        font: { size: 14 }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

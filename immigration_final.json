@@ -1,0 +1,2660 @@
+{
+  "stats": [
+    {
+      "year": "1960",
+      "total_words": 11165,
+      "immigration_quotes": 30,
+      "immigration_words": 857,
+      "immigration_pct": 7.68,
+      "threat": 0,
+      "compassion": 1,
+      "enforcement": 0,
+      "reform": 0
+    },
+    {
+      "year": "1984",
+      "total_words": 14602,
+      "immigration_quotes": 35,
+      "immigration_words": 898,
+      "immigration_pct": 6.15,
+      "threat": 0,
+      "compassion": 1,
+      "enforcement": 0,
+      "reform": 0
+    },
+    {
+      "year": "1992",
+      "total_words": 15755,
+      "immigration_quotes": 59,
+      "immigration_words": 1297,
+      "immigration_pct": 8.23,
+      "threat": 4,
+      "compassion": 3,
+      "enforcement": 0,
+      "reform": 10
+    },
+    {
+      "year": "2000",
+      "total_words": 16536,
+      "immigration_quotes": 51,
+      "immigration_words": 1021,
+      "immigration_pct": 6.17,
+      "threat": 0,
+      "compassion": 1,
+      "enforcement": 1,
+      "reform": 0
+    },
+    {
+      "year": "2008",
+      "total_words": 33305,
+      "immigration_quotes": 20,
+      "immigration_words": 518,
+      "immigration_pct": 1.56,
+      "threat": 4,
+      "compassion": 2,
+      "enforcement": 0,
+      "reform": 0
+    },
+    {
+      "year": "2016",
+      "total_words": 17428,
+      "immigration_quotes": 37,
+      "immigration_words": 775,
+      "immigration_pct": 4.45,
+      "threat": 6,
+      "compassion": 0,
+      "enforcement": 5,
+      "reform": 6
+    },
+    {
+      "year": "2020",
+      "total_words": 18879,
+      "immigration_quotes": 86,
+      "immigration_words": 1504,
+      "immigration_pct": 7.97,
+      "threat": 5,
+      "compassion": 14,
+      "enforcement": 6,
+      "reform": 11
+    }
+  ],
+  "quotes": [
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Kennedy; separated by three thousand miles in a Los Angeles studio, the Republican presidential nominee, Vice President Richard M.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SHADEL",
+      "quote": "SHADEL: And good evening to you, Vice President Nixon.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "McGEE: Senator Kennedy, yesterday you used the words \u201ctrigger-happy\u201d in referring to Vice President Richard Nixon\u2019s stand on defending the islands of Quemoy and Matsu.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, a two-part question concerning the offshore islands in the Formosa Straits.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "There are indications, because of new inventions, that ten, fifteen, or twenty nations will have a nuclear capacity \u2013 including Red China \u2013 by the end of the presidential office in 1964.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "What we\u2019re now talking about is the Vice President\u2019s determination to guarantee Quemoy and Matsu, which are four and five miles off the coast of Red China, which are not within the treaty area.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "The chairman of the Republican National Committee, Senator Thruston Morton, declared earlier this week that you owed Vice President Nixon and the Republican party a public apology for some strong charges made by former President Harry Truman, who bluntly suggested where the Vice President and the Republican party could go.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Do you feel that you owe the Vice President an apology?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Cater\u2019s question is for Vice President Nixon.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, I\u2019d like to return just once more, if I may, to this area of dealing with the Communists.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Just two days ago you said that you called on uh \u2013 Senator Kennedy to serve notice to Communist aggressors around the world that we\u2019re not going to retreat one inch more any place, where as we did retreat from the Tachen Islands, or at least Chiang Kai-shek did.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Number three, the Vice President \u2013 on May fifteenth after the U-2 flight \u2013 indicated that the flights were going on, even though the Administration and the President had canceled the flights on May twelfth.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Number three, the pre \u2013 Vice President suggests that we should keep the Communists in doubt about whether we would fight on Quemoy and Matsu.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "I obviously repudiate the Klan; I repudiate anybody who uses the religious issue; I will not tolerate it, I have ordered all of my people to have nothing to do with it and I say \u2013 say to this great audience, whoever may be listening, remember, if you believe in America, if you want America to set the right example to the world, that we cannot have religious or racial prejudice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "McGee has a question for Vice President Nixon.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, some of your early campaign literature said you were making a study to see if new laws were needed to protect the public against excessive use of power by labor unions.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "I think the moment that you give to the union, on the one side, and to management, on the other side, the escape hatch of eventually going to government to get it settled, that most of these great strikes will end up being settled by government, and that will be a \u2013 be in the end, in my opinion, wage control; it would mean price control \u2013 all the things that we do not want.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "KENNEDY",
+      "quote": "KENNEDY: Well, I always have difficulty recognizing my positions when they\u2019re stated by the Vice President.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "I don\u2019t know what other weapons the Vice President is talking about.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Kennedy, uh \u2013 Senator \u2013 uh \u2013 Vice President Nixon says that he has costed the two party platforms and that yours would run at least ten billion dollars a year more than his.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "My judgment is that the program the Vice President put forward, which is an extension of Mr.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Drummond\u2019s question for Vice President Nixon.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, to conclude that you feel that there has been insufficient economic growth during the past eight years; and if so, what would you do beyond uh \u2013 present Administration policies uh \u2013 to step it up?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Because even though we have maintained, as I pointed out in our first debate, the absolute gap over the Soviet Union; even though the growth in this Administration has been twice as much as it was in the Truman Administration; that isn\u2019t good enough.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "But anybody who suggests that that program would c- come to any figure indicated by the Vice President is in error.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "The Vice President suggested a number of things.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "The Administration has vetoed that bill passed by the Congress twice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "And the Vice President cast the deciding vote against federal aid for teachers\u2019 salaries in the Senate, which prevented that being added.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, in the past three years, there has been an exodus of more than four billion dollars of gold from the United States, apparently for two reasons: because exports have slumped and haven\u2019t covered imports, and because of increased American investments abroad.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1960",
+      "speaker": "SPEAKER",
+      "quote": "I can think of nothing that will be a greater blow to the prestige of the United States among the free nations in Asia than for us to take Senator Kennedy\u2019s advan- advice to go \u2013 go against what a majority of the members of the Senate, both Democrat and Republican, did \u2013 said in 1955, and to say in advance we will surrender an area to the Communists.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Therefore Vice President Bush will get the first question.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Therefore it will be Vice President Bush, Congresswoman Ferraro.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Tomorrow I may be everything.\u201d With that in mind, I\u2019d like to ask the following question: Vice President Bush, four years ago, you ran against Mr.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "And I\u2019m not sure, because of my concept of the vice presidency, that if I didn\u2019t, I\u2019d go doing what Mr.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "You can\u2019t have the president of the United States out there looking over his shoulder wondering whether his vice president is going to be supporting him.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Two, I can walk into that Oval Office anytime and give him my judgment and he might agree or he might not.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "MASHEK",
+      "quote": "MASHEK: Congresswoman Ferraro, your opponent has served in the House Of Representatives, he\u2019s been ambassador to the United Nations, ambassador to China, director of the Central Intelligence Agency and now he\u2019s been vice president for four years.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "I was a prosecutor for almost five years in the district attorney\u2019s office in Queens County and I was a teacher.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "There\u2019s not only what is on your paper resume that makes you qualified to run for or to hold office.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "I, too, recall when Vice President Bush was running in the primary against President Reagan and he called the program voodoo economics, and it was and it is.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "VANOCUR",
+      "quote": "VANOCUR: Vice President Bush, you have one minute to rebuttal.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "With reference to civil rights I think you\u2019ve got to go beyond that and if you take a look, also, at my record in the Congress and Fritz Mondale\u2019s record, both in the Senate and as vice president, we both have extremely strong civil rights records.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "We\u2019ve brought more civil rights cases in the Justice Department than the previous administration by far.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "The interest rates when we left office were 21% percent.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "I\u2019m taking it from the historical viewpoint, if you go back to the 1600s when people came here, the reason they came to this country was to escape religious persecution, and that\u2019s the same reason why people are coming here today in the 1940s to escape Nazism, now in the 1980s and 1984 when they can get our of the country to escape communism so they can come here and practice their religion.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Now what\u2019s happened over the past several years, and quite frankly I\u2019m not going to let you lay on me the intrusion of state politics into religion or religion into politics by my comments with reference to the president\u2019s policies, because it started in 1980 when this administration was running for office and the Reverend Jerry Falwell became very, very involved in the campaign.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "If there comes a time where I cannot practice my religion and do my job properly, I will resign my job.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "BOYD",
+      "quote": "BOYD: Like many Americans, each of you has recently had an unhappy experience with the Internal Revenue Service.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "I filed more information than any other candidate for a national office in the history of this country.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "He started talking about my chauffeur, and you know, I\u2019m driven to work by the Secret Service \u2013 so is Mrs.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Everybody, if it turns out, and I may hire, I notice she said she has a new good accountant.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "FERRARO",
+      "quote": "FERRARO: Let me just say, first of all, that I almost resent, Vice President Bush, your patronizing attitude that you have to teach me about foreign policy.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "QUARLES",
+      "quote": "QUARLES: Vice President Bush, the last three Republican administrations, Eisenhower, Nixon, and Ford, none of them soft on communism, met with the Soviets and got agreements on arms control.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "The president went, the first thing he did when he came into office was make a proposal on the most destabilizing weapons of all, START.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Chernenko, given more than a few months in office can solidify its position, then they\u2019ll talk.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "The last time I heard Vice President Bush blame the fact that they didn\u2019t meet with the Soviet leader, and this is the first president in forty years not to meet with a Soviet counterpart.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Speaking of limits, I have to impose a limit on you, Vice President Bush?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "We now have 50,000 nuclear warheads; we are building at the rate of five or six a day between us and we have been doing that since this administration came into office.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Monad has indicated that what he would do, first of all, as soon as he.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Let me put it this way \u2013 I don\u2019t have any questions, but we are so different from \u2013 the Reagan-Bush administration is so different from the Carter-Mondale [sic] administration that the American people are going to have the clearest choice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "BUSH",
+      "quote": "BUSH: Well, in a couple of weeks, you, the American people, will be faced, three weeks, with a choice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "It\u2019s the clearest choice in some fifty years.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "And the choice is, do we move forward with strength and with prosperity or do we go back to weakness, despair, disrespect.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "When Walter Mondale was attorney general of Minnesota, he led the fight for a man who could not afford to get justice because he couldn\u2019t afford a lawyer; when he was in the Senate he fought for child nutrition programs, he wrote the Fair Housing Act, he even investigated the concerns and the abuses of migrant workers.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1984",
+      "speaker": "SPEAKER",
+      "quote": "Children don\u2019t vote and migrant workers exactly a powerful lobby in this country, but he did it because it was right.",
+      "framing": [
+        "compassion"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Bruno introduces the vice presidential candidates and describes the format in his opening remarks.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "HAL BRUNO: Good evening from Atlanta and welcome to the vice presidential debate sponsored by the Nonpartisan Commission on Presidential Debates.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "The participants are Republican Vice President Dan Quayle.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "(APPLAUSE) And retired Vice Admiral James Stockdale, who is the vice presidential nominee \u2014 (APPLAUSE) \u2014 for independent candidate Ross Perot.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Vice President \u2014 Dan, if I may \u2014 it was 16 years ago that you and I went to the Congress on the very first day together.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "(APPLAUSE) Harry Truman \u2014 VICE PRESIDENT QUAYLE: Do you remember the last time someone compared themselves to Jack Kennedy?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "GORE",
+      "quote": "GORE: Harry Truman, it\u2019s worth remembering, assumed the presidency when Franklin Roosevelt died here in Georgia \u2014 only one of many occasions when fate thrust a vice president into the Oval Office in a time of crisis.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "BRUNO",
+      "quote": "BRUNO: Okay, the next statement will be from Vice President Quayle.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "QUAYLE",
+      "quote": "QUAYLE: Well, thank you, Senator Gore, for reminding me about my performance in the 1988 vice presidential debate.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "I thought since you\u2019re running for vice president, that we ought to start off by talking about the vice presidency itself.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "The vice president presides over the Senate, he casts a deciding vote in case of a tie, but his role really depends on the assignments that are given to him by the president.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "However, if a president should die in office, or is unable to serve for any other reason, the vice president automatically becomes president, and that has happened 5 times in this century.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "What role would each of you like to play as vice president, what areas interest you, and what are your qualifications to serve as president, if necessary?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "In the case of Vice President Quayle, who we\u2019re starting with, I suppose you\u2019d tell us the role that you did play in the first term and which you\u2019d like to do in a 2nd term.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "But even as vice president you never know exactly what your role is going to be from time to time, and let me just give you an example of where I was tested under fire and in a crisis.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Discussions of the vice presidency tend sometimes to focus on the crisis during which a vice president is thrust into the Oval Office, and indeed, one-3rd of the vice presidents who have served have been moved into the White House.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Now I\u2019d like to say in response to Vice President Quayle- -he talked about Malta and the Philippines.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "But when you\u2019re president of the US or when you\u2019re vice president and you have to fill in like I did the night of the crisis in the Philippines, you\u2019ve got to make a decision, you\u2019ve got to make up your mind.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, let him say his thoughts, and then you can come in.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Quayle and Senator Gore both served on the Senate Armed Services Committee.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "The numbers, in terms of the dollar cuts, as they stand on our plans now, show us almost the same as the vice president\u2019s.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "\u2014 Governor Clinton\u2019s plan is almost twice as much a cut as either one of us.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "This wasn\u2019t a partisan victory that came suddenly, a few months after you took the oath of office.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "It is not the issue of how he avoided military service 20-some years ago; it\u2019s the fact \u2014 it\u2019s the fact that he does not tell the truth about it.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "He first said he didn\u2019t get an induction notice, then we find out that he did; he said he didn\u2019t have an ROTC slot, then we find out he did; he said he didn\u2019t use Senator Fulbright\u2019s office for special influence, then we find out that he did.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "And, Vice President Quayle, it\u2019s your turn to start first.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "You don\u2019t have to have a choice between the environment and jobs \u2014 you can have both.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "No, Hal, the choice isn\u2019t the environment and jobs.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "QUAYLE",
+      "quote": "QUAYLE: Okay, well, we\u2019ll find \u2014 BRUNO: Let him talk, Mr Vice President.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "There is no incentive for a doctor to curtail the expensive tests because he\u2019s under threat of malpractice lawyers.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "You talk about increasing costs that the president has had on Capitol Hill- \u2013 medical malpractice reform legislation \u2014 for several years.",
+      "framing": [
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Wouldn\u2019t that be nice to take $20.7 billion that we\u2019re putting into our legal system and put it to preventive health care or women\u2019s health care or something else besides trial lawyers?",
+      "framing": [
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "But no \u2014 you don\u2019t want to reform the health care system to drive down costs through medical malpractice.",
+      "framing": [
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "I also want to respond to the question about malpractice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Do you know which state has the lowest malpractice premiums in the entire country?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Bill Clinton\u2019s Arkansas does \u2014 partly because he has passed reform measures limiting the time during which malpractice suits can be filed.",
+      "framing": [
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "How can you talk about family values, Dan, and twice veto the Family Medical Leave Act?",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Medical malpractice legislation has been before the Congress of the US and you tried to convince the American people that Bill Clinton is for tort reform?",
+      "framing": [
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "He writes Polly Williams, a Democrat state legislator in Milwaukee, Wisconsin, saying I\u2019m for choice in education; then he goes to the NEA teachers union and says, sorry, I\u2019m not for choice in education because you won\u2019t let me be for choice in education.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "The reason we are pro-choice and in favor of a woman\u2019s right to privacy is because we believe that during the early stages of a pregnancy the government has no business coming in and ordering a woman to do what the government thinks is best.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "We ought to be able to build more common ground among those who describe themselves as pro-choice and pro-life in efforts to reduce the number of unwanted pregnancies.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "BRUNO",
+      "quote": "BRUNO: Vice President Quayle, your turn.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "GORE",
+      "quote": "GORE: Well, you notice in his response, that Dan did not say I support the right of a woman to choose.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Take the NAFTA agreement \u2014 GORE: Well, wait \u2014 BRUNO: Let\u2019s stick with the question, Mr Vice President.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Mr Vice President, you\u2019ll have a chance to \u2014 (APPLAUSE) You\u2019ll have a chance in the closing statements.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "It\u2019s becoming increasingly difficult to pay for public education, for transportation, for police and fire protection, the basic services that local government must provide.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Quayle, it\u2019s your turn to go first.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "And I found out that when I really got down to putting out do\u2019s and don\u2019ts, and lots of these included take torture for this and that, and this and that, and never take any amnesty, for reasons they all understood and went along with.",
+      "framing": []
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Quayle said they\u2019re important, but George Bush eliminated them from his urban plan, and then \u2014 QUAYLE: Well, that\u2019s not true.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "GORE",
+      "quote": "GORE: We support the public school choice to go to any public school of your choice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Choice in education is a very important issue.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "STOCKDALE",
+      "quote": "STOCKDALE: I \u2014 I come down on the side of freedom of school choice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Ultimately, it is a choice between hope and fear, a choice between the future and the past.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "(APPLAUSE.) BRUNO: Vice President Quayle.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "And that\u2019s why we support choice in education.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "I was in Beaumont, Texas, and met with small business people, and they wanted to reform the civil justice system because they think our legal system costs too much and there\u2019s too much of a delay in getting an answer.",
+      "framing": [
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "Under President Bush\u2019s health care reform package that woman won\u2019t have to make a choice about going back to work or health care for her children, because she\u2019ll have both.",
+      "framing": [
+        "compassion",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "(APPLAUSE) BRUNO: That concludes this vice presidential debate.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "1992",
+      "speaker": "SPEAKER",
+      "quote": "I\u2019d like to thank Vice President Quayle, Senator Gore, Admiral Stockdale for being participants.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Bush of Texas, and the Democratic candidate, Vice President Al Gore.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Good evening, Governor Bush, Vice President Gore.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "He\u2019s a vice presidential nominee who represents \u2014 I think people got to see why I picked him.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "It means addressing the problems of injustice and inequity, along the lines of race and ethnicity here at home, because in all these other places around the world where they\u2019re having these terrible problems, when they feel hope, it is often because they see in us a reflection of their potential.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Gore, the governor mentioned the Middle East.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Like the vice president, I call on Chairman Arafat to have his people pull back to make the peace.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "MODERATOR",
+      "quote": "MODERATOR: So you don\u2019t believe, Vice President Gore, that we should take sides and resolve this right now?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "When I was in the senate before I became vice president I was pushing for stronger action against Milosevic.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And as a result, our nation paid a price.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "But the reverse side of the question, Governor, that Vice President Gore mentioned, 600,000 people died in Rwanda in 1994.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And we\u2019ve got to do a lot of work in Africa to promote democracy and trade, and there are some \u2014 Vice President mentioned Nigeria is a fledgling democracy.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And I think that\u2019s where maybe the vice president and I begin to have some differences.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "MODERATOR",
+      "quote": "MODERATOR: Vice President Gore, do you agree with the governor\u2019s views on nation building, the use of military, our military, for nation building as he described and defined it?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "BUSH",
+      "quote": "BUSH: First let me just say one comment about what the vice president said.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "I\u2019ve devoted in the budget I\u2019ve proposed, as I said last week, more than twice as much as the governor has proposed.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "It\u2019s an enormous problem and corruption in official agencies, like militaries and police departments around the world, customs officials, that\u2019s one of the worst forms of it.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And we have a fundamental choice to make.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "So I\u2019m not exactly sure where the vice president is coming from, but I think one way for us to end up being viewed as the ugly American is for us to go around the world saying, \u00e2\u20ac\u0153we do it this way, so should you.\u00e2\u20ac\u009d Now, we trust freedom.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, but I think the United States must be humble and must be proud and confident of our values, but humble in how we treat nations that are figuring out how to chart their own course.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "(LAUGHTER) MODERATOR: First, a couple of follow-ups from the vice presidential debate last week.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Gore, would you support or sign, as president, a federal law banning racial profiling by police and other authorities at all levels of government?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "One of my concerns, though, is I don\u2019t want to federalize the local police forces.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "But it\u2019s very important that we not overstep our bounds and I think most people \u2014 most police officers are good, dedicated, honorable citizens who are doing their job, putting their lives at risk who aren\u2019t bigoted or aren\u2019t prejudiced.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And I also agree that most police officers, of course, are doing a good job and hate this practice also.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "I talked to an African-American police officer in Springfield, Massachusetts not long ago who raised this question and said that in his opinion one of the biggest solutions is in the training.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And not only the training in police procedures, but human relations.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "I think they\u2019re different because they\u2019re based on prejudice and hatred, which gives rise to crimes that have not just a single victim, but they\u2019re intended to stigmatize and dehumanize a whole group of people.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "So racial profiling isn\u2019t just an issue at local police forces.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And so to make sure we end up getting rid of basic structural prejudice is education.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "MODERATOR",
+      "quote": "MODERATOR: Vice President Gore, what would be on your racial discrimination elimination list as president?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "GORE",
+      "quote": "GORE: I\u2019m talking about the one that was proposed to deal \u2014 BUSH: No \u2014 well, what the Vice President must not understand is we\u2019ve got a hate crimes bill in Texas.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, we\u2019re happy with our laws on our books.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Another vice presidential debate follow-up.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "I presume the Vice President supported it when the President signed that bill and supports it now.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "MODERATOR",
+      "quote": "MODERATOR: New subject, new question, Vice President Gore.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "I disagree with the vice president on this issue.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "What are they, Governor, from your point of view, between you and the Vice President?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "So in my state we toughen up the juvenile justice laws.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "MODERATOR",
+      "quote": "MODERATOR: Governor, did the \u2014 are the vice president\u2019s figures correct about Texas?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "MODERATOR",
+      "quote": "MODERATOR: Let me put that directly to you, Vice President Gore.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And let me tell you exactly why I think that the choice he made to give a tax cut for the oil companies and others before addressing this \u2014 I mean, if you were the governor of a state that was dead last in health care for families, and all of a sudden you found yourself with the biggest surplus your state had ever had in its history, wouldn\u2019t you want to maybe use some of it to climb from 50th to, say, 45 or 40 or something or maybe better?",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Gore, on the environment.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "There was a study just a few weeks ago suggesting that in summertime the north polar ice cap will be completely gone in 50 years.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "The book you mentioned that Vice President Gore wrote, he also called for taxing \u2014 big energy taxes in order to clean up the environment.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, haven\u2019t they been changing their opinion a little bit on global warming?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "You, your running mate, your campaign officials have charged that Vice President Gore exaggerates, embellishes and stretches the facts, etcetera.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, are now calling the governor a bumbler.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "And Vice President Gore, you have two minutes.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, thank you very much, and I would like to thank the folks here at Wake Forest, and I want to thank you all for listening.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "I don\u2019t believe, like the vice president does, in huge government.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2000",
+      "speaker": "SPEAKER",
+      "quote": "Thank you, Vice President Gore, Governor Bush.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "The Commission on Presidential Debates is the sponsor of this event and the three other presidential and vice presidential debates coming in October.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And unless we are holding ourselves accountable day in, day out, not just when there\u2019s a crisis for folks who have power and influence and can hire lobbyists, but for the nurse, the teacher, the police officer, who, frankly, at the end of each month, they\u2019ve got a little financial crisis going on.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "LEHRER",
+      "quote": "LEHRER: Respond directly to him about that, to Senator Obama about that, about the \u2014 he\u2019s made it twice now, about your tax \u2014 your policies about tax cuts.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "Senator McCain is absolutely right that the violence has been reduced as a consequence of the extraordinary sacrifice of our troops and our military families.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And we honor all the service that they\u2019ve provided.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "MCCAIN",
+      "quote": "MCCAIN: Senator Obama twice said in debates he would sit down with Ahmadinejad, Chavez and Raul Castro without precondition.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And it will have, I think, an important effect on the price of a barrel of oil.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "The consequences of defeat, which would result from his plan of withdrawal and according to date certain, regardless of conditions, according to our military leaders, according to every expert, would lead to defeat \u2014 possible defeat, loss of all the fragile sacrifice that we\u2019ve made of American blood and treasure, which grieves us all.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And I\u2019ve been proud of their support and their recognition of my service to the veterans.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "Eastern time, the two vice presidential candidates will debate at Washington University in St.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "The Commission on Presidential Debates is the sponsor of this event and the three other presidential and vice presidential debates coming in October.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And unless we are holding ourselves accountable day in, day out, not just when there\u2019s a crisis for folks who have power and influence and can hire lobbyists, but for the nurse, the teacher, the police officer, who, frankly, at the end of each month, they\u2019ve got a little financial crisis going on.",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "LEHRER",
+      "quote": "LEHRER: Respond directly to him about that, to Senator Obama about that, about the \u2014 he\u2019s made it twice now, about your tax \u2014 your policies about tax cuts.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "Senator McCain is absolutely right that the violence has been reduced as a consequence of the extraordinary sacrifice of our troops and our military families.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And we honor all the service that they\u2019ve provided.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "MCCAIN",
+      "quote": "MCCAIN: Senator Obama twice said in debates he would sit down with Ahmadinejad, Chavez and Raul Castro without precondition.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And it will have, I think, an important effect on the price of a barrel of oil.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "The consequences of defeat, which would result from his plan of withdrawal and according to date certain, regardless of conditions, according to our military leaders, according to every expert, would lead to defeat \u2014 possible defeat, loss of all the fragile sacrifice that we\u2019ve made of American blood and treasure, which grieves us all.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "And I\u2019ve been proud of their support and their recognition of my service to the veterans.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2008",
+      "speaker": "SPEAKER",
+      "quote": "Eastern time, the two vice presidential candidates will debate at Washington University in St.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "Beginning with you, Secretary Clinton, why are you a better choice than your opponent to create the kinds of jobs that will put more money into the pockets of American workers?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "So we\u2019re now on the precipice of having a potentially much better economy, but the last thing we need to do is to go back to the policies that failed us in the first place.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "Whether it\u2019s 6 or 5, but it looks like it\u2019s 6, $6 trillion in the Middle East, we could have rebuilt our country twice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "Unfortunately, race still determines too much, often determines where people live, determines what kind of education in their public schools they can get, and, yes, it determines how they\u2019re treated in the criminal justice system.",
+      "framing": [
+        "threat",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "We have to restore trust between communities and the police.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "We have to work to make sure that our police are using the best training, the best techniques, that they\u2019re well prepared to use force only when necessary.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "So I have, ever since the first day of my campaign, called for criminal justice reform.",
+      "framing": [
+        "threat",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "I\u2019ve laid out a platform that I think would begin to remedy some of the problems we have in the criminal justice system.",
+      "framing": [
+        "threat",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "But we also have to recognize, in addition to the challenges that we face with policing, there are so many good, brave police officers who equally want reform.",
+      "framing": [
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "We have endorsements from, I think, almost every police group, very\u2014I mean, a large percentage of them in the United States.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "And in many cases, they\u2019re illegally here, illegal immigrants.",
+      "framing": [
+        "threat"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "It went before a judge, who was a very against-police judge.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "But you look at Dallas, where the relationships were really studied, the relationships were really a beautiful thing, and then five police officers were killed one night very violently.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "So we\u2019ve got to address the systemic racism in our criminal justice system.",
+      "framing": [
+        "threat",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "We have to say\u2014we have to come forward with a plan that is going to divert people from the criminal justice system, deal with mandatory minimum sentences, which have put too many people away for too long for doing too little.",
+      "framing": [
+        "threat",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "In a lot of places, our police are outgunned.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "Do you believe that police are implicitly biased against black people?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "CLINTON",
+      "quote": "CLINTON: Lester, I think implicit bias is a problem for everyone, not just police.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "But when it comes to policing, since it can have literally fatal consequences, I have said, in my first budget, we would put money into that budget to help us deal with implicit bias by retraining a lot of our police officers.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "I\u2019ve met with a group of very distinguished, experienced police chiefs a few weeks ago.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "Mental health is one of the biggest concerns, because now police are having to handle a lot of really difficult mental health problems on the street.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "And I give credit\u2014I give credit across the board going back two mayors, two police chiefs, because it has worked.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "And so we need to do a better job of working, again, with the communities, faith communities, business communities, as well as the police to try to deal with this problem.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "And I think I did a great job and a great service not only for the country, but even for the president, in getting him to produce his birth certificate.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "But, remember, Donald started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans, and he made sure that the people who worked for him understood that was the policy.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "He actually was sued twice by the Justice Department.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "And, you know, I also notice the very nasty commercials that you do on me in so many different ways, which I don\u2019t do on you.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "In addition, I was just endorsed by ICE.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "They\u2019ve never endorsed anybody before on immigration.",
+      "framing": []
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "I was just recently endorsed\u201416,500 Border Patrol agents.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "But they should be paying us, because we are providing tremendous service and we\u2019re losing a fortune.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "It\u2019s not nice.\u201d But she spent hundreds of millions of dollars on negative ads on me, many of which are absolutely untrue.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "And I will tell you this, Lester: It\u2019s not nice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "But it\u2019s certainly not a nice thing that she\u2019s done.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "The other day, we were deporting 800 people.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "And perhaps they passed the wrong button, they pressed the wrong button, or perhaps worse than that, it was corruption, but these people that we were going to deport for good reason ended up becoming citizens.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2016",
+      "speaker": "SPEAKER",
+      "quote": "The vice presidential debate is scheduled for October 4th at Longwood University in Farmville, Virginia.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Trump and former Vice President Joe Biden.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "No cheers, boos or other interruptions except right now, as we welcome to the stage former Vice President Joe Biden and President Donald J.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: OK, former Vice President Biden, to you, how would you lead the country out of this crisis?",
+      "framing": [
+        "threat",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, your reaction?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, your response?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Biden, I want to talk broadly about strategy, though.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Do you want to respond to that quickly, Vice President Biden?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, you suggested you would support new shutdowns if scientists recommended it.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, your response.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, your response, quickly and then we\u2019re going to move on to the next section.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, what would you do to put an end to this threat?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "I made it clear that any country, no matter who it is, that interferes in American elections will pay a price.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Any country that interferes with us will, in fact, pay a price because they\u2019re affecting our sovereignty.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And Joe, you were vice president when some of this was happening.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, you may respond and then I do want to follow up on the election security.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Biden, there have been questions about the work your son has done in China, and for a Ukrainian energy company when you were Vice President.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "As soon as he became vice president, Burisma \u2014 not the best, not the best reputation in the world \u2014 I hear they paid him 183,000 a month.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: I\u2019m going to let the vice president respond to that quickly and then I have a question for you.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "TRUMP",
+      "quote": "TRUMP: Excuse me, and then unlike him, where he\u2019s Vice President, and he does business, I then decided to run for president after that.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "He is the Vice President of the United States, and his son, his brother and his other brother are getting rich, they\u2019re like a vacuum cleaner, there\u2019s something \u2014 WELKER: Okay, President Trump, thank you.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "I do want to ask you, Vice President Biden, about China.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "When I met with Xi, and when I was still vice president, he said \u2018we\u2019re setting up air identification zones in the South China Sea, you can\u2019t fly through them.\u2019 I said, \u2018we\u2019re gonna fly through them.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "You play by them or you\u2019re going to pay the price for not playing by them, economically.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And that\u2019s what we did and upholding steel tariffs and a range of other things when we were president and vice president.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "TRUMP",
+      "quote": "TRUMP: \u2014 after spending 10 minutes in office and being in Air Force Two, number one.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: OK, Vice President Biden, your response, please?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden to you, North Korea conducted four nuclear tests under the Obama administration.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Let me follow up with you, Vice President Biden, you\u2019ve said you wouldn\u2019t meet with Kim Jong Un without preconditions.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Today, there was a key vote on a new Supreme Court Justice Amy Coney Barrett, and healthcare is at the center of her confirmation fight.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Biden, yes, this is for you.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: I have a follow up for you, Vice President Biden, it relates to something that President Trump said.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "He was now there as Vice President for eight years.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And it\u2019s not that he wants it, his vice president \u2014 I mean, she is more liberal than Bernie Sanders and wants it even more.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President, your response please.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "His governor was a very liberal governor, they wanted to make it work \u2014 WELKER: Let\u2019s see if \u2014 TRUMP: \u2014 it was impossible to work, it doesn\u2019t work \u2014 WELKER: Vice President Biden, your response.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President \u2014 BIDEN: You know, the Republican leader in the United States Senate said he can\u2019t pass it \u2014 he will not be able to pass it.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Let me follow up with you, Vice President Biden \u2013 TRUMP: If we made a deal, the Republicans would pass it \u2014 WELKER: Let me ask Vice President Biden a question.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, we are talking a lot about struggling small businesses and business owners these days.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: We are going to move on to immigration \u2014 TRUMP: One thing very quickly.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: We\u2019re going to talk about immigration.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "We\u2019re going to talk about immigration, now, gentlemen, and we\u2019re going to talk about families within this context.",
+      "framing": [
+        "compassion"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "President, your administration separated children from their parents at the border, at least 4000 kids.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, let me bring you into this conversation.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "They separated them at the border to make it a disincentive to come to begin with.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Let me ask about your immigration policy, Mr.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "The Obama administration did fail to deliver immigration reform, which had been a key promise during the administration.",
+      "framing": [
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "It also presided over record deportations as well as family detentions at the border before changing course.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "So why should voters trust you with an immigration overhaul now?",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "I\u2019ll be President of the United States, not Vice President of the United States.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And the fact is, I\u2019ve made it very clear, within 100 days, I\u2019m going to send to the United States Congress a pathway to citizenship for over 11 million undocumented people.",
+      "framing": [
+        "compassion",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And all those so called Dreamers, those DACA kids, they\u2019re going to be immediately certified again, to be able to stay in this country, and put on a path to citizenship.",
+      "framing": [
+        "compassion",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "But he had eight years he was vice president.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, your response?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "This is the first President in the history of the United States of America that anybody seeking asylum has to do it in another country.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "That I seek asylum based on the following premise, why I deserve it under American law.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "It just shows that he has no understanding of immigration or the laws.",
+      "framing": []
+    },
+    {
+      "year": "2020",
+      "speaker": "TRUMP",
+      "quote": "TRUMP: We have to send ICE out and Border Patrol out to find them.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: OK, President Trump, let\u2019s give Vice President Biden a chance to respond, and then we\u2019re going to move on to the next section.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, your response.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Part of that experience is something called \u201cthe talk.\u201d It happens regardless of class and income \u2014 parents who feel they have no choice but to prepare their children for the chance that they could be targeted, including by the police, for no reason other than the color of their skin.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President, in the next two minutes, I want you to speak directly to these families.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Criminal justice reform, Obama and Joe didn\u2019t do it.",
+      "framing": [
+        "threat",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And everybody knows it including some very liberal people that cried in my office\u2013they cried in the Oval Office.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Two weeks later, they\u2019re out saying, \u2018Gee, we have to defeat him.\u2019 Criminal justice reform, prison reform, opportunity zones with Tim Scott, a great senator from South Carolina.",
+      "framing": [
+        "threat",
+        "compassion",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "After three years of coming to the office, I love some of those guys, they were great, they came into the office.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And we\u2019re going to talk about both of your records, but your response to that Vice President?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Why didn\u2019t you\u2013 BIDEN: I am not\u2013 TRUMP: You were vice president.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Alright, Vice President Biden, your response to that?",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "I got criminal justice reform done, and prison reform, and opportunity zones.",
+      "framing": [
+        "threat",
+        "compassion",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Biden, let me ask you \u2013 very quickly, and then I have a follow up question for you.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, let me give you a chance to respond within this context.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "You were vice president, along with Obama as your President, your leader, for eight years.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "We \u2014 in fact, we\u2019re the ones that put in the legislation saying we could look at pattern or practice of police departments and what they were doing, how they were conducting themselves.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Alright, Vice President Biden and then we\u2019re gonna move on to the next section.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Alright, we\u2019re gonna move on to our next section which is climate change- TRUMP: Like I did with criminal justice reform.",
+      "framing": [
+        "threat",
+        "enforcement",
+        "reform"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Biden, you have said you see addressing climate change as an opportunity to create new jobs.",
+      "framing": [
+        "compassion",
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "When they put us in there, they did us a great disservice.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "I will not sacrifice tens of millions of jobs, thousands and thousands of companies because of the Paris Accord.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden \u2014 TRUMP: And we haven\u2019t destroyed our industries.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, two minutes to you uninterrupted.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "And many other things\u2013 WELKER: Alright \u2014 okay, let me have the vice president respond and we\u2019re running out of time and we have a lot more questions to get to.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Let me allow Vice President Biden to respond \u2014 BIDEN: I have never said I oppose fracking.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, your response and then we\u2019re going to have a final question for both of you.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "WELKER",
+      "quote": "WELKER: Vice President Biden, let me give you ten seconds to respond and then I have to get to the final question.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "Vice President Biden, same question to you.",
+      "framing": [
+        "enforcement"
+      ]
+    },
+    {
+      "year": "2020",
+      "speaker": "SPEAKER",
+      "quote": "President Trump, former Vice President Joe Biden.",
+      "framing": [
+        "enforcement"
+      ]
+    }
+  ]
+}
